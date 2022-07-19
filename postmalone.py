@@ -1,4 +1,4 @@
-# SCRIPT FOR HTTP URL .PHP RESPONSE 0 OR 1
+# SCRIPT FOR POST HTTP URL .PHP RESPONSE 0 OR 1
 # 0 = false
 # 1 = true
 # made by keychange
